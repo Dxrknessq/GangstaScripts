@@ -1,6 +1,6 @@
 --[[
-# moonlib v1
-# developed by jakep#0001
+# TheBestScriptUI v1
+# developed by ZeusX#3246
 # fully open source enjoy (;
 --]]
 
@@ -9,7 +9,7 @@ local lib = {}
 
 function lib:CreateWindow(name, colorid, imageid)
 
-local imageid = imageid or "9160626035"
+local imageid = imageid or "11701180818"
 local colorid = colorid or "#b36415"
 local MoonLIB = Instance.new("ScreenGui")
 local imagestring = Instance.new("StringValue")
