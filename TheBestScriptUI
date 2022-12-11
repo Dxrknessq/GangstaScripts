@@ -193,7 +193,7 @@ Icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Icon.BackgroundTransparency = 1.000
 Icon.BorderSizePixel = 0
 Icon.Position = UDim2.new(0, 8, 0.5, -1)
-Icon.Size = UDim2.new(8, 16, 8, 16)
+Icon.Size = UDim2.new(0, 16, 0, 16)
 Icon.ZIndex = 4
 Icon.Image = "http://www.roblox.com/asset/?id="..imageid
 Icon.ImageColor3 = Color3.fromRGB(123, 69, 15)
